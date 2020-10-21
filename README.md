@@ -31,17 +31,14 @@ https://todolistsaikaly.herokuapp.com/
 - express
 - mongoose
 - nodemon
--config
+- config
 
 ### Frontend
 
 - axios
 - bootstrap
 - concurrently
-- mongodb
-- mongoose
 - node
-- nodemon
 - react
 - react-scripts
 
